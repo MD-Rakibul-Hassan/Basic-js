@@ -20,3 +20,7 @@
 //       console.log("Hello => index => ",i);
 //       i++
 // }
+const array = [1,2,3,4];
+for (var x of array) {
+      console.log(x)
+}
