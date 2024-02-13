@@ -12,3 +12,4 @@ for (x of myMap) {
       console.log(x)
 }
 console.log(myMap.get(10))
+export default myMap;
